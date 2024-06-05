@@ -23,4 +23,5 @@ test_auth_page_elements.py - проверки наличия на страниц
 
 В корне
 
-conftest.py - фикстура с веб-драйвером и пост-обработкой ошибки requirements.txt - файл с требуемыми для проекта библиотеками (pytest, pytest-selenium, selenuim)# -_-
+conftest.py - фикстура с веб-драйвером и пост-обработкой ошибки 
+requirements.txt - файл с требуемыми для проекта библиотеками (pytest, pytest-selenium, selenuim) 
