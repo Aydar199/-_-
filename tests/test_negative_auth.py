@@ -158,7 +158,7 @@ def test_auth_by_username_and_empty_password(username, passwd, test_num, web_bro
 
 @pytest.mark.parametrize("username, test_num", [
                                 ('+7(999)9999999', "AT-008"),
-                                ("romashka2003@gmail.com", "AT-014")
+                                ("gara2000@gmail.com", "AT-014")
                             ], ids= [
                                 "Wrong phone number",
                                 "Wrong email"
